@@ -14,23 +14,26 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "contosofinance", ".", "{2B0
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_61968"
-		Release.AspNetCompiler.PhysicalPath = ".\contosofinance\"
+		Release.AspNetCompiler.PhysicalPath = "..\contosofinance\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61968\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "61968"
-		SlnRelativePath = ".\contosofinance\"
+		SlnRelativePath = "..\contosofinance\"
 	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{2B04D4AC-CA14-4849-BDA7-99D59B881F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2B04D4AC-CA14-4849-BDA7-99D59B881F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B04D4AC-CA14-4849-BDA7-99D59B881F97}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B04D4AC-CA14-4849-BDA7-99D59B881F97}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
